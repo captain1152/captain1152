@@ -4,17 +4,6 @@
   🚀 Passionate Developer | 💻 GitHub Lover
 </p> -->
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captain1152&theme=tokyonight&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain1152&theme=tokyonight&layout=compact" height="180"/>
-</p>
-
----
-
 ### 🐾 GitAnimals
 
 <p align="center">
