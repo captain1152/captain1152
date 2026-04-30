@@ -1,11 +1,3 @@
-<h1 align="center">👋 Hi, I'm captain1152</h1>
-
-<!-- <p align="center">
-  🚀 Passionate Developer | 💻 GitHub Lover
-</p> -->
-
-### 🐾 GitAnimals
-
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/captain1152"/>
