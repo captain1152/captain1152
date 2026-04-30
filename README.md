@@ -12,7 +12,6 @@
 
 ### ✨ About Me
 
-- 🌱 Currently learning: **Your Tech Here**
 - 🔥 Interested in: **Frontend(Web, App) / Backend / AI / etc**
 - 📫 Contact: **captain1152@naver.com**
 
